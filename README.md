@@ -17,7 +17,7 @@ This is the word that will be replaced
 # Considerations
 This script will change the word, even if the word is inside another sentence. For example:
 
-|   string        | Word Searched | Word to replace |     Result   |
+|   string        | Word Searched | Word to replace |   Result     |
 |-----------------|:-------------:|:---------------:|-------------:|
 | **xtml**        |    xtml       |       XYZ       | **XYZ**      |
 | abc**xtml**     |    xtml       |       XYZ       | abc**XYZ**   |
